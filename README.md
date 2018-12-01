@@ -1,2 +1,2 @@
-# KyleMP7
-MP7 project github
+# KyleMP6
+MP6 project github
